@@ -20,5 +20,6 @@ How would you collaborate without using Git or GitHub? What would be easier, and
 	
 When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
 
-	-When I want someone to check my work before I merge into master. You can change direct into master when you are doing a small project by your self,
-	and you should create another branch when you are collaborating with others using pull requests.
+	-When I want someone to check my work before I merge into master. You can change direct into master when you are doing a small project by your self, and you should create another branch when you are collaborating with others using pull requests.
+
+	-Now I'm trying to learn more about git on the terminal after all these months without using it, lets see how rusty am I.
